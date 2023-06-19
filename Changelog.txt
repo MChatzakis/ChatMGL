@@ -1,0 +1,4 @@
+Changelog ChatMGL
+
+- Minor updates and fixes to the reward dataset
+- Changed reward model to BertForSequenceClassification as it had better performance on the updated reward data

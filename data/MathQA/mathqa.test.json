@@ -1,0 +1,202 @@
+[
+    {
+        "guid": "841b640c-06a3-48b7-9d7e-574302140327",
+        "question": "a shopkeeper sold an article offering a discount of 5 % and earned a profit of 31.1 % . what would have been the percentage of profit earned if no discount had been offered ?",
+        "answer": "If a seller decides not to offer any discounts to a customer, it indicates that the product will be sold at the printed price. Let us consider an example where the cost price of an article is 100. Using the formula, printed price = 100 x (100 + 31.1)/(100 - 5) = 138. Therefore, the required percentage profit would be 38%, which can be calculated as (printed price - cost price)/cost price x 100."
+    },
+    {
+        "guid": "edf70d4e-1890-431d-8fc0-51738b844111",
+        "question": "what will be the difference between simple and compound interest at 14 % per annum on a sum of rs . 1000 after 4 years ?",
+        "answer": "The simple interest (S.I.) on an amount of Rs. 1000 at a rate of 14% per annum for 4 years is Rs. 560. The compound interest (C.I.) on the same amount at the same rate and time is Rs. 689. Therefore, the difference between the compound interest and simple interest is Rs. 129."
+    },
+    {
+        "guid": "787feb7a-a967-402e-9d60-7ef2fa30e1c4",
+        "question": "there are 28 stations between hyderabad and bangalore . how many second class tickets have to be printed , so that a passenger can travel from any station to any other station ?",
+        "answer": "The problem requires us to determine the number of ways to select any two stations from a total of 30 stations, taking into consideration the direction of travel (i.e., the route from Hyderabad to Bangalore is distinct from the route from Bangalore to Hyderabad). This can be calculated using the permutation formula for selecting two objects from a set of 30, with an additional factor of 2 to account for the two possible directions of travel. Therefore, the total number of ways to choose two stations with direction of travel considered is 30P2 * 2 = 870. Hence, the final answer is 870."
+    },
+    {
+        "guid": "0471c848-4e86-4bc2-ad47-bc12a0662246",
+        "question": "the present population of a town is 3888 . population increase rate is 20 % p . a . find the population of town before 2 years ?",
+        "answer": "Given that the initial population of a town is 3888 and the annual growth rate is 20%, we can calculate the required population after a certain number of years using the formula P = p / (1 + r/100)^t, where P is the required population, p is the initial population, r is the annual growth rate, and t is the number of years. By substituting the given values, we get P = 3888 / (1 + 20/100)^2, which simplifies to P = 2700 (approximately). Therefore, the required population of the town after two years is approximately 2700."
+    },
+    {
+        "guid": "4d98de46-7a20-4c36-a585-89ff0d99142a",
+        "question": "the triplicate ratio of 1 : 9 is ?",
+        "answer": "The ratio of 13 to 93 is equivalent to the ratio of 1 to 729. Therefore, the answer is 1 : 729."
+    },
+    {
+        "guid": "ea280406-498b-4761-8a0d-aefdc471ebb5",
+        "question": "the sum of all the integers s such that - 26 < s < 24 is",
+        "answer": "To obtain the solution, we first notice that the given sequence is an arithmetic sequence with a common difference of 1. We then observe that all the terms from -23 to 23 cancel each other out, leaving only the terms -25 and -24. Thus, the sum of the sequence is equal to -25 + (-24), which simplifies to -49. Therefore, the answer to the problem is -49, which represents the sum of the given arithmetic sequence."
+    },
+    {
+        "guid": "6e6fcb8c-9225-46d3-b84c-e9a406ffa101",
+        "question": "a full stationary oil tank that is a right circular cylinder has a radius of 100 feet and a height of 25 feet . oil is pumped from the stationary tank to an oil truck that has a tank that is a right circular cylinder until the truck ' s tank is completely filled . if the truck ' s tank has a radius of 6 feet and a height of 10 feet , how far ( in feet ) did the oil level drop in the stationary tank ?",
+        "answer": "The equation expressing the principle of conservation of volume in this scenario is: the volume of oil pumped into the tank is equal to the volume of oil extracted from the stationary cylinder. This can be mathematically represented by the equation: pi * 36 * 10 = pi * h * 100 * 100, where h represents the distance that the oil level dropped. Solving for h, we get h = 360/10,000 = 36/1000 = 0.036 feet. Thus, the answer to the problem is 0.036 feet."
+    },
+    {
+        "guid": "4c66c412-e9bb-40b9-86ab-064f842ef567",
+        "question": "each week a restaurant serving mexican food uses the same volume of chili paste , which comes in either 35 - ounce cans or 25 - ounce cans of chili paste . if the restaurant must order 20 more of the smaller cans than the larger cans to fulfill its weekly needs , then how manysmallercans are required to fulfill its weekly needs ?",
+        "answer": "Let x be a variable representing the number of 35 ounce cans equal to 70."
+    },
+    {
+        "guid": "08dda336-27bc-4886-a5f2-4712101b6e25",
+        "question": "if n is an integer and 101 n ^ 2 is less than or equal to 10000 , what is the greatest possible value of n ?",
+        "answer": "The inequality 101 * n^2 <= 10000 holds true for values of n that are less than or equal to 9. This is because when n is 9, n^2 is equal to 81, which is the largest square less than or equal to 100. Additionally, when n is greater than 9, the inequality is not satisfied as 10000 / 101 is less than 100, which is the next perfect square after 81. Therefore, the answer is n = 9."
+    },
+    {
+        "guid": "0a02436c-da75-4175-b8ad-f524056b84b3",
+        "question": "a constructor estimates that 10 people can paint mr khans house in 4 days . if he uses 5 people instead of 10 , how long will they take to complete the job ?",
+        "answer": "The formula used to solve the problem is \"work members multiplied by days equals a constant.\" Substituting the given values, we have 10 members multiplied by 4 days equals 5 members multiplied by the unknown number of days (represented by \"a\"). Simplifying the equation, we get 40 = 5a. Solving for \"a,\" we divide both sides by 5 to get a = 8. Therefore, the answer to the problem is 8 days."
+    },
+    {
+        "guid": "06f2a0b4-5349-4d89-b842-d47cec6532d9",
+        "question": "the population of a town is 8000 . it decreases annually at the rate of 20 % p . a . what will be its population after 3 years ?",
+        "answer": "By applying the given formula, where \"after\" is equal to 100 as the denominator and \"ago\" is equal to 100 as the numerator, we can calculate the result of the expression (8000 x 80 / 100 x 80 / 100) \u00f7 (100 / 100). Simplifying this expression, we get 4096 as the final answer."
+    },
+    {
+        "guid": "228c8ced-002f-4afe-a892-c116fb07f820",
+        "question": "the percentage profit earned by selling an article for rs . 1920 is equal to the percentage loss incurred by selling the same article for rs . 1280 . at what price should the article be sold to make 40 % profit ?",
+        "answer": "Let the cost price (c.p.) be represented as 'rs.x'. Therefore, using the given equation, we get:\n\n(1920 - x) / x * 100 = (x - 1280) / x * 100\n\nSimplifying the equation, we get:\n\n1920 - x = x - 1280\n\n2x = 3200\n\nx = 1600\n\nHence, the cost price is rs.1600. \n\nTo find the selling price, we use the formula:\n\nSelling price (s.p.) = cost price (c.p.) + profit \n\nHere, profit = 40% of c.p. \n\nSubstituting the values, we get:\n\nProfit = 40/100 * 1600 = rs.640\n\nTherefore, s.p. = c.p. + profit = 1600 + 640 = rs.2240.\n\nHence, the formal answer is: The selling price of the item is rs.2240."
+    },
+    {
+        "guid": "0d69f77f-f1af-4a91-b99e-abc79325143c",
+        "question": "running at the same constant rate , 6 identical machines can produce a total of 360 bottles per minute . at this rate , how many bottles could 10 such machines produce in 4 minutes ?",
+        "answer": "Let the number of required bottles be represented by x. It is evident that there is a direct proportionality between the number of machines and the number of bottles produced, as well as between the time taken and the number of bottles produced. Given that the ratio of machines to bottles is 6:10, and the time ratio is 1:4, we can set up the following proportion: \n\n6/10 = 360/x = 1/4 \n\nSolving for x, we obtain:\n\nx = (10 x 4 x 360) / 6 \n\nTherefore, the number of required bottles is 2400."
+    },
+    {
+        "guid": "e30d43b6-7f4b-4be6-ae41-48fd683e491c",
+        "question": "there are 1000 buildings in a street . a sign - maker is contracted to number the houses from 1 to 1000 . how many zeroes will he need ?",
+        "answer": "The expression to be simplified is the product of a series of terms obtained by subtracting 100 from consecutive multiples of 100 between 1 and 1000. The total number of terms in this series is 192. After performing the indicated multiplication, the simplified answer is 192."
+    },
+    {
+        "guid": "a02f8af1-f3a0-429c-9b2d-ef49c9890589",
+        "question": "a man bought 20 shares of rs . 50 at 5 discount , the rate of dividend being 13 . the rate of interest obtained is :",
+        "answer": "The rate of interest obtained on the investment is 15%. This is calculated by dividing the dividend of Rs. 135 by the face value of the investment, which is Rs. 1000, and then multiplying by 100 to get a percentage. Therefore, the calculation is (135/1000) x 100% = 13.5%, which can be rounded up to 15%."
+    },
+    {
+        "guid": "ce89449a-7259-477a-8d09-725ec5dd9378",
+        "question": "? % of 360 = 108",
+        "answer": "To calculate the value of the question mark, we can use the formula:\n\n(question mark / 360) * 100 = 108\n\nSolving for the question mark, we get:\n\nquestion mark = (108 * 360) / 100\n\nTherefore, the value of the question mark is:\n\nquestion mark = 30"
+    },
+    {
+        "guid": "b98744fe-2b5a-4d2a-b1e8-b8e0a10a3404",
+        "question": "a train 300 m long is running at a speed of 45 km / hr . in what time will it pass a bridge 150 m long ?",
+        "answer": "The speed is calculated as 45 multiplied by 5 and then divided by 18, resulting in 25 divided by 2 meters per second. The total distance covered is the sum of 300 meters and 150 meters, which is 450 meters. The required time to cover this distance is obtained by multiplying 450 by 2 and then dividing by 25, yielding a value of 36 seconds. Therefore, the answer to the problem is 36."
+    },
+    {
+        "guid": "13b540e5-30a4-4dab-8064-617bb687b729",
+        "question": "what is the sum of all digits for the number 10 ^ 29 - 41 ?",
+        "answer": "The number 10^29 is a 30-digit number consisting of the digit 1 followed by 29 zeros. When 41 is subtracted from 10^29, the resulting number is a 29-digit number with 27 nines and 59 at the end. The sum of the digits in this number can be calculated as 27 times 9 plus 5 plus 9, which equals 257. Therefore, the answer to the problem is 257."
+    },
+    {
+        "guid": "702ca91a-eb40-4b7e-bd64-4868fd256c55",
+        "question": "a train running at the speed of 120 km / hr crosses a pole in 18 seconds . what is the length of the train ?",
+        "answer": "The speed of the train can be calculated by multiplying the distance it covers in meters (120) by the conversion factor for kilometers per hour to meters per second (5/18), resulting in a speed of (100/3) meters per second. To calculate the length of the train, one can multiply this speed by the time it takes to pass a fixed point (600 seconds)."
+    },
+    {
+        "guid": "56d6f767-dd93-4aee-88e3-678095f56c7c",
+        "question": "a train 100 meters long completely crosses a 300 meters long bridge in 45 seconds . what is the speed of the train is ?",
+        "answer": "The speed, expressed in kilometers per hour (kmph), can be calculated as follows: \n\ns = (100 + 300) / 45 \ns = 400 / 45 * 18 / 5 \ns = 32 \n\nTherefore, the speed is 32 kmph."
+    },
+    {
+        "guid": "60c97d08-a4e4-429e-b0db-456cf95585b2",
+        "question": "each month a retailer sells 100 identical items . on each item he makes a profit of $ 40 that constitutes 10 % of the item ' s price to the retailer . if the retailer contemplates giving a 5 % discount on the items he sells , what is the least number of items he will have to sell each month to justify the policy of the discount ?",
+        "answer": "To solve this problem, we can use the formula: sell price = cost + profit. Given that the profit on one item is $20 and represents 10% of the cost, we can calculate the cost of each item to be $400. Thus, the sell price is $440 for each item. Selling all 100 items would give the retailer a profit of $2,000. \n\nIf the retailer offers a 5% discount on the sell price, then the new sell price becomes $418. This results in a profit of $18 per item sold. To earn a profit of $2,000, the retailer must sell 223 items. Selling 221 items would result in a profit of $1,989, which is not enough. Therefore, the final answer is 223 items."
+    },
+    {
+        "guid": "201153bc-1880-49b9-a748-bc15d8115980",
+        "question": "the average age of 15 students of a class is 14 years . out of these , the average age of 5 students is 14 years and that of the other 9 students is 16 years . tee age of the 15 th student is ?",
+        "answer": "The age of the 15th student can be calculated by subtracting the product of the 5th student's age and 14 and the product of the 9th student's age and 16 from the product of 15 and 14. This yields a result of 4 years, indicating the age of the 15th student."
+    },
+    {
+        "guid": "3ea286ff-ea6c-4b88-bd73-8cc0b361da89",
+        "question": "bookman purchased 55 copies of a new book released recently , 10 of which are hardback and sold for $ 20 each , and rest are paperback and sold for $ 10 each . if 14 copies were sold and the total value of the remaining books was 460 , how many paperback copies were sold ?",
+        "answer": "The bookshop initially had 10 hardback copies and 55 paperback copies. After selling 14 copies, there were 41 copies remaining. Let us denote the number of remaining paperback copies as 'p'. Thus, the number of remaining hardback copies is 41 - p. \n\nTo determine the number of paperback copies sold, we can use the fact that the bookshop sold a total of 14 copies. Therefore, the number of hardback copies sold is 14 - (41 - p) = p - 27. \n\nWe are given that the total revenue from selling these books was $460. We can set up an equation based on the prices of the hardback and paperback copies and the number sold: \n\n10(41 - p) + 20(p - 27) = 460 \n\nSimplifying this equation, we get: \n\n360 - 10p = 460 - 20p \n\nSolving for p, we get p = 36. \n\nTherefore, the number of paperback copies sold is 45 - 36 = 9."
+    },
+    {
+        "guid": "0b5077d0-e149-4840-be50-a2f8a4ba7f3a",
+        "question": "diana is painting statues . she has 1 / 2 of a gallon of paint remaining . each statue requires 1 / 16 gallon of paint . how many statues can she paint ?",
+        "answer": "The formula used to calculate the number of statues is as follows: \n\nNumber of statues = Total amount of paint \u00f7 Amount of paint used per statue \n\nSubstituting the given values, we get: \n\nNumber of statues = (1/2) \u00f7 (1/16)\n\nSimplifying the expression, we get: \n\nNumber of statues = (1/2) x (16/1) \n\nNumber of statues = 8 \n\nTherefore, the answer is 8 statues."
+    },
+    {
+        "guid": "dd113484-3ab5-4c52-9579-345557ae4cf3",
+        "question": "if the price of gasoline increases by 25 % and a driver intends to spend only 20 % more on gasoline , by how much percent should the driver reduce the quantity of gasoline that he buys ?",
+        "answer": "Let x be the initial quantity of gasoline purchased by the driver, y be the new quantity to be purchased, and p be the original price per liter. Based on the given equation, where (1.25 * p) y = 1.2 (p * x), it can be determined that the reduction in the amount of gasoline to be purchased is equal to (1.2 / 1.25) x, which simplifies to 0.96 x. Therefore, the reduction in the amount of gasoline to be purchased is equivalent to a 4% decrease."
+    },
+    {
+        "guid": "bb008ea9-bba7-4338-88ef-2a3cd130a570",
+        "question": "an art gallery has only paintings and sculptures . currently , 1 / 3 of the pieces of art are displayed , and 1 / 6 of the pieces on display are sculptures . if 1 / 3 of the pieces not on display are paintings , and 1000 sculptures are not on display , how many pieces of art does the gallery have ?",
+        "answer": "One-third of the pieces of art are displayed, indicating that two-thirds of the pieces of art are not displayed. Additionally, one-sixth of the pieces on display are sculptures, implying that five-sixths of the pieces on display are paintings. Furthermore, one-third of the pieces not on display are paintings, indicating that two-thirds of the pieces not on display are sculptures. Given that 1000 sculptures are not on display, according to the aforementioned information, it follows that two-thirds of the pieces not on display is equal to 1000, and thus the total number of pieces of art is 1500. Solving for two-thirds of the total number of pieces of art yields 1500, which implies that the total number of pieces of art is 2250. Therefore, the answer is 2250."
+    },
+    {
+        "guid": "7ef63762-027f-4639-93b2-097fbcfbf9a1",
+        "question": "john and ingrid pay 30 % and 40 % tax annually , respectively . if john makes $ 60000 and ingrid makes $ 72000 , what is their combined tax rate ?",
+        "answer": "(1) If 30 and 40 have equal weight, or weight = 1/2, the solution is 35. (2) If 40 has a greater weight than 30, the solution is between 35 and 40. However, two answer choices (d and e) meet this criterion, so we need to narrow down the range. (3) Dividing 72,000 by 132,000 yields 6/11. 6/11 is slightly greater than 6/12, which is equal to 1/2. Therefore, the solution is slightly greater than 35. The answer is 35.6%."
+    },
+    {
+        "guid": "fcf8d1cd-e752-412a-8bf3-4b4058d7103a",
+        "question": "the lenght of a room is 5.5 m and width is 4 m . find the cost of paving the floor by slabs at the rate of rs . 900 per sq . metre .",
+        "answer": "The calculation for the area of the floor is as follows: the length of 5.5 meters multiplied by the width of 4 meters, resulting in a total area of 22 square meters. The cost of paving the floor can be determined by multiplying the area of 22 square meters by the cost per square meter of rs. 900, which yields a total cost of rs. 19,800. Therefore, the answer is rs. 19,800."
+    },
+    {
+        "guid": "4c607c09-aaa5-44e9-b592-a35f426179cb",
+        "question": "a factory that employs 1000 assembly line workers pays each of these workers $ 5 per hour for the first 40 hours worked during a week and 1 \u00bd times that rate for hours worked in excess of 40 . what was the total payroll for the assembly - line workers for a week in which 30 percent of them worked 15 hours , 50 percent worked 40 hours , and the rest worked 50 hours ?",
+        "answer": "The calculation shows that the total payment for a group of workers who worked different hours at different rates is $177,500. Specifically, 30% of 1000 workers, or 300 workers, worked for 15 hours at a rate of $5/hour, resulting in a total payment of $22,500. 50% of 1000 workers, or 500 workers, worked for 40 hours at a rate of $5/hour, resulting in a total payment of $100,000. The remaining 200 workers worked for 50 hours, with payment for the first 40 hours at a rate of $5/hour, resulting in a payment of $40,000, and payment for the next 10 hours at a rate of $7.5/hour, resulting in a payment of $15,000. The sum of these payments is $177,500."
+    },
+    {
+        "guid": "dcd210ad-52a9-4bc4-9974-71f0e26dd147",
+        "question": "a corporation double its annual bonus to 100 of its employees . what percent of the employees \u2019 new bonus is the increase ?",
+        "answer": "Let 'x' be the annual bonus. Given that the corporation has doubled its annual bonus, the new bonus is given by 2x. Therefore, the increase in bonus is given by 2x - x = x. To determine the percentage increase, we need to calculate the increase relative to the new bonus, which is 2x. Therefore, the percentage increase in bonus is (x/2x) * 100 = 50%. Hence, there is a 50% increase in the employees' new bonus."
+    },
+    {
+        "guid": "0d4ed87a-f038-48bf-bfec-5ec4726d1d30",
+        "question": "a and b together do a work in 20 days . b and c together in 15 days and c and a in 12 days . then b alone can finish same work in how many days ?",
+        "answer": "The combined work done by individuals (a + b), (b + c), and (c + a) in one day is 1/20, 1/15, and 1/12 respectively. Upon adding these, we get the total work done by two times the sum of (a + b + c) in one day, which is equal to 1/5. Therefore, the work done by (a + b + c) in one day is 1/10. \n\nTo find the work done by individual b in one day, we need to subtract the work done by (a + c) in one day from the work done by (a + b + c) in one day. This gives us 1/10 - 1/12, which simplifies to 1/60. Thus, individual b alone can finish the work in 60 days."
+    },
+    {
+        "guid": "5c1398ac-78cd-4e6f-a517-315acf72724c",
+        "question": "two trains of equal length , running with the speeds of 60 and 16 kmph , take 50 seconds to cross each other while they are running in the same direction . what time will they take to cross each other if they are running in opposite directions ?",
+        "answer": "The solution to the problem involves the calculation of the time taken by a car to cover a distance of 50 meters when it accelerates from rest at a rate of 20 meters per second squared and then moves at a constant speed of 60 km/hr before decelerating at the same rate to come to a stop. \n\nThe initial speed of the car is zero, and the acceleration is 20 meters per second squared. Therefore, the time taken to reach a speed of 60 km/hr (or 16.67 m/s) can be calculated using the equation: \n\nv = u + at \n\nwhere v is the final speed, u is the initial speed, a is the acceleration, and t is the time taken. \n\nThus, t = (v - u) / a = (16.67 - 0) / 20 = 0.8333 seconds \n\nThe distance covered during this acceleration phase can be calculated using the equation: \n\ns = ut + 0.5at^2 \n\nwhere s is the distance covered. \n\nThus, s = 0 + 0.5 * 20 * (0.8333)^2 = 6.944 meters \n\nThe distance covered during the constant speed phase is simply: \n\ns = vt = 16.67 * (50 - 6.944) = 694.4 meters \n\nFinally, the time taken to decelerate from 60 km/hr to rest can be calculated using the same formula as before: \n\nt = (v - u) / a = (0 - 16.67) / -20 = 0.8333 seconds \n\nThe distance covered during this phase is: \n\ns = ut + 0.5at^2 = 0 + 0.5 * (-20) * (0.8333)^2 = 6.944 meters \n\nTherefore, the total distance covered by the car is 694.4 + 6.944 + 6.944 = 708.288 meters. \n\nThe average speed of the car for the entire journey is: \n\naverage speed = total distance / total time = 708.288 / (0.8333 + 50 + 0.8333) = 13.15 m/s \n\nHence, the time taken by the car to cover a distance of 50 meters is: \n\ntime taken = distance / speed = 50 / 13.15 = 3.803 seconds (to three decimal places)."
+    },
+    {
+        "guid": "81ddfd78-97ce-4e99-8097-b2f12728782d",
+        "question": "calculate the ratio between x and y if 30 % of x equal to 50 % of y ?",
+        "answer": "The given equation is 30x = 50y. By dividing both sides by 50, we get x/y = 3/5. Therefore, the ratio of x to y is 3:5."
+    },
+    {
+        "guid": "7d1b766a-2654-42fa-bdb2-68a69869907b",
+        "question": "three walls have wallpaper covering a combined area of 300 square meters . by overlapping the wallpaper to cover a wall with an area of 180 square meters , the area that is covered by exactly two layers of wallpaper is 34 square meters . what is the area that is covered with three layers of wallpaper ?",
+        "answer": "The computation reveals that there is an overlap of 120 square meters of wallpaper, which can be present in either two or three layers. Given that 36 square meters of the wallpaper has two layers, the remaining overlap in three layers is 120 - 34 = 86 square meters. Since 86 square meters of wallpaper creates two additional layers, it follows that the area over which it creates two extra layers is 43 square meters. Therefore, the answer is 43 square meters."
+    },
+    {
+        "guid": "9336f63d-4b3e-49b4-b515-bc9d0669dc35",
+        "question": "a meeting has to be conducted with 6 managers . find the number of ways in which the managers may be selected from among 9 managers , if there are 2 managers who refuse to attend the meeting together .",
+        "answer": "The solution to the problem involves determining the number of ways in which 6 managers can be chosen from a pool of 9 managers. This is achieved using the combination formula, which gives 9C6 = 84. However, since the question requires the exclusion of groups that include two specific managers, the number of such groups is calculated as 7C4 = 35. The final step involves subtracting the number of groups including the two managers from the total number of possible groups, giving 84 - 35 = 49. Therefore, the answer to the problem is 49."
+    },
+    {
+        "guid": "c578fa5b-0eff-4819-83c6-f5c1055bbea8",
+        "question": "a trader bought a car at 20 % discount on its original price . he sold it at a 40 % increase on the price he bought it . what percent of profit did he make on the original price ?",
+        "answer": "Let the original price be denoted as 'P', which is equal to 100 cents (cp) or 80 shillings (s). \n\nGiven that the selling price is 140% of the original price, we can calculate the selling price as: \n\nselling price = P * (140/100) = 112 shillings\n\nTherefore, the discount given is the difference between the original price and the selling price: \n\ndiscount = P - selling price = 80 - 112 = -32 shillings\n\nHowever, since a discount cannot be negative, we take the absolute value of the discount: \n\ndiscount = |-32| = 32 shillings\n\nTo express the discount as a percentage of the original price, we divide the discount by the original price and multiply by 100: \n\ndiscount percentage = (32/80) * 100 = 40%\n\nTherefore, the formal answer is that a discount of 40% was given."
+    },
+    {
+        "guid": "6d4ea3c9-4924-4665-9b91-f2e0f6b93650",
+        "question": "a start walking from a place at a uniform speed of 6 kmph in a particular direction . after half an hour , b starts from the same place and walks in the same direction as a at a uniform speed and overtakes a after 1 hour 48 minutes . find the speed of b .",
+        "answer": "The distance covered by person A in 30 minutes is 1 kilometer. Person B covers an additional distance of 1 kilometer in 1 hour and 48 minutes (9/5 hours), resulting in a relative speed of B over A of 1/(9/5) or 5/9. Thus, the speed of person B is equal to the speed of person A plus 5/9. Substituting the given value of 6 kilometers per hour for person A's speed yields a value of 6 + 5/9 or 6.55 kilometers per hour for person B's speed. Therefore, the answer is 6.6 kilometers per hour."
+    },
+    {
+        "guid": "e7800854-5644-4fe9-8c3e-5ea5bb31fff7",
+        "question": "oak street begins at pine street and runs directly east for 2 kilometers until it ends when it meets maple street . oak street is intersected every 400 meters by a perpendicular street , and each of those streets other than pine street and maple street is given a number beginning at 1 st street ( one block east of pine street ) and continuing consecutively ( 2 nd street , 3 rd street , etc . . . ) until the highest - numbered street one block west of maple street . what is the highest - numbered street that intersects oak street ?",
+        "answer": "The division of 2 km by 400 m results in a quotient of 5. However, it should be noted that the street located at the 2-km mark is not the fifth street, but rather Maple Street. Thus, the maximum numbered street in this scenario is the fourth street. Therefore, the answer is the fourth street."
+    },
+    {
+        "guid": "115a6b91-cf61-4329-a87f-979550aa85ca",
+        "question": "50 percent of the members of a study group are women , and 30 percent of those women are lawyers . if one member of the study group is to be selected at random , what is the probability that the member selected is a woman lawyer ?",
+        "answer": "Assuming a group size of 100 individuals, the number of women lawyers in the group can be calculated as 0.5 multiplied by 0.30 multiplied by 100, resulting in 15 women lawyers. This implies that the probability of selecting a woman lawyer from the group is the ratio of favorable outcomes (15) to the total number of outcomes (100), resulting in a probability value of 0.15."
+    },
+    {
+        "guid": "b6873e92-63fe-4cc8-834e-eef5a8e26cd4",
+        "question": "the cross - section of a cannel is a trapezium in shape . if the cannel is 14 m wide at the top and 8 m wide at the bottom and the area of cross - section is 550 sq m , the depth of cannel is ?",
+        "answer": "The equation 1/2 * d (14 + 8) = 550 can be simplified to 11d = 550. Solving for d, we get d = 50. Therefore, the answer is 50."
+    }
+]

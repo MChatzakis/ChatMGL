@@ -1,0 +1,202 @@
+[
+    {
+        "guid": "7dd0e303-3ea6-4e0c-b3bb-55115f347487",
+        "question": "a multiple choice test consists of 4 questions , and each question has 5 answer choices . in how many r ways can the test be completed if every question is unanswered ?",
+        "answer": "There are five options available for each of the four questions, resulting in a total of 5^4 = 625 possible ways to answer all of them. Therefore, the answer is 625."
+    },
+    {
+        "guid": "a300d808-72b6-449c-9998-b9e6c3d22b68",
+        "question": "a 3 - digit positive integer is chosen at random . what is the probability that the product of its digits is even ?",
+        "answer": "The probability of obtaining a three-digit number with all odd digits is calculated as follows: The first digit cannot be zero, giving us a total of nine possible digits from which to choose. Of these nine digits, five are odd and four are even. Therefore, the probability of selecting an odd digit for the first slot is 5/9, the probability of selecting an odd digit for the second slot is 5/10 (since one digit has already been selected), and the probability of selecting an odd digit for the third slot is also 5/10. Multiplying these probabilities together yields 5/36.\n\nTo find the probability of obtaining at least one even digit, we can subtract the probability of obtaining all odd digits from one. Therefore, the probability of obtaining at least one even digit is 1 - 5/36, which simplifies to 31/36. Hence, the answer is 31/36."
+    },
+    {
+        "guid": "7ef1b43f-4396-40a6-a8ed-e3aea514fa07",
+        "question": "if x and y are positive integers and 7 + x + y + xy = 21 , what is the value of x + y ?",
+        "answer": "Attempt each solution for question number six."
+    },
+    {
+        "guid": "d7609586-a84a-4637-9e58-0745a32c5ff5",
+        "question": "the hcf and lcm of two numbers m and n are respectively 6 and 210 . if m + n = 72 , then 1 / m + 1 / n is equal to",
+        "answer": "The solution to the problem is as follows: Let m and n be the two numbers that satisfy the equation (1/m) + (1/n) = 2/35. Multiplying both sides of the equation by the least common multiple of m and n, we get (n + m)/mn = 2/35. Given that mn = 6 x 210 = 1260, we can substitute this value into the equation to get (n + m)/1260 = 2/35. Cross-multiplying, we obtain 35(n + m) = 2520, which simplifies to n + m = 72. Therefore, the answer is 2/35."
+    },
+    {
+        "guid": "3809032f-e5a5-401b-bb05-834410f0ced0",
+        "question": "in a kilometer race , a beats b by 48 meters or 12 seconds . what time does a take to complete the race ?",
+        "answer": "The time taken by athlete B to run 1000 meters is calculated as (1000 * 12) / 48, which is equal to 250 seconds. Therefore, the time taken by athlete A can be determined by subtracting the time taken by athlete B (250 seconds) from the given time taken by athlete A and B together (12 seconds). Thus, the time taken by athlete A to run 1000 meters is 238 seconds."
+    },
+    {
+        "guid": "a431c76f-4000-49e5-9551-4bee9e91c24f",
+        "question": "in a school of 650 boys , 44 % of muslims , 28 % hindus , 10 % sikhs and the remaining of other communities . how many belonged to the other communities ?",
+        "answer": "The sum of 44, 28, and 10 is 82. When 82 is divided by 100, the remainder is 82 subtracted from 100, which equals 18. Multiplying 650 by 18 and then dividing the result by 100 yields an answer of 117. Therefore, the solution is 117."
+    },
+    {
+        "guid": "08266358-4137-4434-bd77-1abb604f76ac",
+        "question": "a can do a piece of work in 4 hours ; b and c together can do it in 3 hours , while a and c together can do it 2 hours . how long will b alone take to do it ?",
+        "answer": "The solution indicates that the work efficiency of person a is 1/4 per hour, the combined work efficiency of persons b and c is 1/3 per hour, the combined work efficiency of persons a and c is 1/2 per hour, and the combined work efficiency of persons a, b, and c is 7/12 per hour. It follows that the work efficiency of person b alone is 1/12 per hour, obtained by subtracting 1/2 from 7/12. Hence, it will take person b 12 hours to complete the work alone."
+    },
+    {
+        "guid": "56c44d0d-105c-4f68-9d41-0491f9a855ff",
+        "question": "in a group of 160 people , 90 have an age of more 30 years , and the others have an age of less than 20 years . if a person is selected at random from this group , what is the probability the person ' s age is less than 20 ?",
+        "answer": "The number of individuals in the group whose age is less than 20 is determined as the difference between the total number of individuals in the group (160) and the number of individuals aged 20 or above (90), resulting in a value of 70. The probability, denoted as p, of selecting a person at random from the group who is under 20 years of age is calculated by dividing the number of individuals whose age is less than 20 by the total number of individuals in the group, which results in a value of 0.4375 or approximately 0.44. Therefore, the correct answer is 0.44."
+    },
+    {
+        "guid": "8df6da56-98b9-4bc9-9c16-c6877e1d92cb",
+        "question": "an art gallery has only paintings and sculptures . currently , 1 / 3 of the pieces of art are displayed , and 1 / 6 of the pieces on display are sculptures . if 1 / 3 of the pieces not on display are paintings , and 800 sculptures are not on display , how many pieces of art does the gallery have ?",
+        "answer": "One-third of the pieces of art are displayed, indicating that two-thirds of the pieces of art are not displayed. Furthermore, one-sixth of the pieces on display are sculptures, implying that five-sixths of the pieces on display are paintings. Additionally, one-third of the pieces not on display are paintings, indicating that two-thirds of the pieces not on display are sculptures. Given that there are 800 sculptures not on display, applying the third statement yields that two-thirds of the pieces not on display equals 800, resulting in a not on display count of 1200. Using the first statement, two-thirds of the total pieces equals 1200, yielding a total count of 1800. Therefore, the answer is 1800."
+    },
+    {
+        "guid": "115eec25-95ef-4872-84c9-654902e8b2e4",
+        "question": "if x and y are integers and | x - y | = 10 , what is the minimum possible value of xy ?",
+        "answer": "Sometimes, the answer choices for a given question provide a helpful indication of how to approach the problem. In this case, the problem can be solved through a process of elimination using simple arithmetic. The problem states that x and y are integers, and |x-y| = 10. The question asks for the minimum possible value of (x)(y). Since all of the answer choices are negative, one of the variables must be negative and the other must be positive. Therefore, we can restrict our work to those options. By testing various values of x and y, we find that the minimum value of xy is -25 when x = 5 and y = -5. Further work is not necessary, as xy will start to increase as x continues to decrease down to 1. Therefore, the final answer is -25."
+    },
+    {
+        "guid": "6e41c952-f151-4535-954e-774e6c2a8530",
+        "question": "two trains , one from howrah to patna and the other from patna to howrah , start simultaneously . after they meet , the trains reach their destinations after 25 hours and 16 hours respectively . the ratio of their speeds is ?",
+        "answer": "Let us denote the trains as A and B. Therefore, the ratio of the speed of train A to the speed of train B is given by the ratio of the square root of the speed of train B to the square root of the speed of train A, which is equal to the ratio of the square root of 16 to the square root of 25, i.e., 4:5. Hence, the answer is 4:5."
+    },
+    {
+        "guid": "bd26f45d-b447-4ec1-ad28-ee73c3b0ae92",
+        "question": "one copy machine can make 20 copies a minute , and a second copy machine makes 10 copies a minute . if the two copiers work together , how long would it take them to make 900 copies ?",
+        "answer": "The combined work output of both machines in one minute is 30 copies, where one machine produces 20 copies and the other produces 10 copies. To complete a total of 900 copies, it would take 30 minutes, which is calculated by dividing the total number of copies required by the combined work output of both machines. Therefore, the answer is 30 minutes."
+    },
+    {
+        "guid": "b363d850-5206-4ff3-8c90-2a7148be236e",
+        "question": "at what rate of compound interest per annum will a sum of rs . 1200 become rs . 1348.32 in 2 years ?",
+        "answer": "To find the rate, let us assume it to be r% per annum. Using the given formula for compound interest, which is A=P(1+r/n)^(nt), where A is the final amount, P is the principal, r is the rate of interest, n is the number of times interest is compounded per year, and t is the time period in years, we get:\n\n1200(1+r/100)^2 = 1348.32\n\nSimplifying this equation, we get:\n\n(1+r/100)^2 = 11236/10000\n\nTaking the square root of both sides, we get:\n\n1+r/100 = \u221a(11236/10000)\n\nSimplifying this equation, we get:\n\n1+r/100 = 106/100\n\nTherefore, r/100 = 6/100\n\nHence, r = 6%\n\nTherefore, the rate of interest is 6% per annum."
+    },
+    {
+        "guid": "d14fa7a4-8f55-4cf4-9ccc-de1570bec1f3",
+        "question": "in the first 10 overs of a cricket game , the run rate was only 6.2 . what should be the run rate in the remaining 40 overs to reach the target of 282 runs ?",
+        "answer": "In a cricket match, after the first 10 overs, the team had a run rate of 6.2 runs per over and had scored a total of 62 runs. The remaining overs were 40, and the team needed to score a total of 282 runs to win the match. To calculate the required run rate, we subtracted the runs scored in the first 10 overs from the total runs needed and obtained 220. We then assumed the required run rate to be x and multiplied it by the remaining overs, which gave us 40x. Equating 40x to 220, we obtained x = 220 / 40 = 5.5. Therefore, the required run rate for the team to win the match is 5.5 runs per over."
+    },
+    {
+        "guid": "a7e949ce-d976-4f6a-a487-22c92606ad8f",
+        "question": "given f ( x ) = 3 x \u2013 5 , for what value of x does 2 * [ f ( x ) ] + 2 = f ( 3 x \u2013 6 )",
+        "answer": "I apologize, but I cannot provide a formal response without knowing the question to which \"answer 5\" refers. Can you please provide me with more context or information so that I may assist you better?"
+    },
+    {
+        "guid": "d7599664-7661-4f1c-96fa-c737fb4aa21c",
+        "question": "during a car trip , maria stopped to rest after she traveled 1 / 2 of the total distance to her destination . she stopped again after she traveled 1 / 4 of the distance remaining between her first stop and her destination , and then she drove the remaining 135 miles to her detination . what was the total distance , in miles from maria ' s starting point to her destination ?",
+        "answer": "The solution to the given problem is 360, which can be expressed in a more formal manner as follows: \n\n\"The calculated answer to the problem is 360, which represents the total degree measure in a full circle.\""
+    },
+    {
+        "guid": "e2fd0b67-fe80-4dc9-b242-907dba34bf5b",
+        "question": "5 , 11 , 23 , 41 , 64 , _",
+        "answer": "The solution to the given arithmetic expression is as follows: \n\nStarting with the given expression 5 + 6 = 11, the subsequent expressions are evaluated by adding the product of 6 and the incrementing numbers 2, 3, 4, and 5 to the previous result. \n\nThus, the solution to the expression 5 + 6 = 11, 11 + 6 * 2 = 23, 23 + 6 * 3 = 41, 41 + 6 * 4 = 65, and 65 + 6 * 5 = 95. Therefore, the final answer is 95."
+    },
+    {
+        "guid": "09f82bbd-bf6a-4ef6-9cbe-4b0500db5105",
+        "question": "the smallest number which when diminished by 6 , is divisible 12 , 14 , 16 , 18 and 22 is :",
+        "answer": "The required number is obtained by calculating the least common multiple (LCM) of the integers 12, 14, 16, 18, and 22, denoted as LCM(12, 14, 16, 18, 22). The value of LCM(12, 14, 16, 18, 22) is found to be equal to 11,088. Adding 6 to this value gives the final answer, which is 11,094. Therefore, the required number is 11,094."
+    },
+    {
+        "guid": "6858249d-1993-4d9a-8603-6ff32900c26c",
+        "question": "3 pumps , working 8 hours a day , can empty a tank in 2 days . how many hours a day must 15 pumps work to empty the tank in 1 day ?",
+        "answer": "Given that 3 pumps take a total of 16 hours, with each day consisting of 8 hours, it can be inferred that each pump takes 16/3 = 5.33 hours to complete the task. Therefore, if only one pump is working, it would take 48 hours (16*3) to complete the task. \n\nTo determine the time required if 15 pumps were contributing to the task, we divide 48 by 15, resulting in 3.2 hours. Hence, the formal answer is 3.2 hours."
+    },
+    {
+        "guid": "d809bb97-4fbc-43d3-9635-ed2a08e499fd",
+        "question": "a and b go around a circular track of length 600 m on a cycle at speeds of 36 kmph and 54 kmph . after how much time will they meet for the first time at the starting point ?",
+        "answer": "The time taken for individuals A and B to meet for the first time at the starting point can be calculated using the formula: lcm { length of the track / speed of A, length of the track / speed of B }. Applying this formula to the given values, we get lcm { 600 / ( 36 * 5 / 18 ), 600 / ( 54 * 5 / 18 ) } = lcm ( 60, 40 ) = 120 seconds. Therefore, the answer is 120."
+    },
+    {
+        "guid": "adf9cdd6-bbd9-4ed8-8658-9c611c4d2d1b",
+        "question": "if x and y are integers and 2 x \u2013 y = 11 , then 4 x + y can not be",
+        "answer": "The given system of equations is: 2x - y = 11 and 2x = 11 + y. By solving these equations, we get 4x = 22 + 2y. We need to check the value of 4x + 4, which simplifies to 22 + 3y. Therefore, 22 + 3y must be equal to the given value in the options. Solving for y, we get y = (value - 22)/3. After checking all the options, it is found that only option d, which is 17, is an unfit answer."
+    },
+    {
+        "guid": "58fabae9-ad21-4ffd-836e-ee51bf0d00d7",
+        "question": "the ratio of ducks and frogs in a pond is 37 : 39 respectively . the average number of ducks and frogs in the pond is 132 . what is the number of frogs in the pond ?",
+        "answer": "The given problem concerns the ratio of ducks and frogs in a pond, which is 37:39. The average of the total number of ducks and frogs in the pond is 132. Using this information, we can calculate the total number of ducks and frogs as 2 times the average, which is 262. To find the number of frogs in the pond, we can use the ratio of ducks to frogs and the total number of ducks and frogs. By using the formula (total number of frogs = (total number of ducks and frogs * ratio of frogs)/(ratio of ducks + ratio of frogs)), we obtain the answer as 134. Therefore, the formal solution to the problem is that there are 134 frogs in the pond."
+    },
+    {
+        "guid": "4fc4a6b1-5b28-493d-919d-526fd5c63c52",
+        "question": "calculate the circumference of a circular field whose radius is 7 centimeters .",
+        "answer": "The circumference, denoted by c, of a circle is given by the formula c = 2\u03c0r, where r is the radius of the circle and \u03c0 is a constant approximately equal to 3.14. In this case, if the radius of the circle is 7 cm, then the circumference is equal to 2\u03c0(7) = 14\u03c0 cm. Therefore, the answer is 14\u03c0 cm."
+    },
+    {
+        "guid": "be6a3949-26d9-4ed0-8f33-c445fe631322",
+        "question": "a certain car can travel 32 kilometers on a liter of fuel . if the fuel tank \u2019 s contents decrease by 3.9 gallons over a period of 5.7 hours as the car moves at a constant speed , how fast is the car moving , in miles per hour ? ( 1 gallon = 3.8 liters ; 1 mile = 1.6 kilometers )",
+        "answer": "The amount of fuel used was 3.9 gallons, which can be converted to liters by multiplying by 3.8. The resulting value is 14.82 liters. The time taken to travel a certain distance was 5.7 hours. The conversion factor from kilometers to miles is 1.6. Using the formula for speed, distance divided by time, and replacing kilometers with miles, the speed in miles per hour was calculated to be 78 miles per hour. Therefore, the answer is 78."
+    },
+    {
+        "guid": "cd3ad010-287b-47ef-af4d-b7fe1b6d47ca",
+        "question": "a , b , c and d enter into partnership . a subscribes 1 / 3 of the capital b 1 / 4 , c 1 / 5 and d the rest . how much share did c get in a profit of rs . 2430 ?",
+        "answer": "Let the total amount in the partnership be denoted by 'x'. Then, A's share is x/3, B's share is x/4, C's share is x/5, and D's share can be calculated as x - (x/3 + x/4 + x/5) = 13x/60. \n\nThe ratio of A:B:C:D can be expressed as x/3 : x/4 : x/5 : 13x/60, which simplifies to 20:15:12:13. \n\nTo determine A's share in the profit of Rs. 2430, we need to calculate 12/60 of the total profit, since A's share is 12 in the ratio of 20+15+12+13=60. Thus, A's share in the profit is 12*(2430/60) = Rs. 486. \n\nTherefore, the answer is Rs. 486."
+    },
+    {
+        "guid": "98a3d80a-6cfd-49f2-9181-cc2fe14bf258",
+        "question": "the ratio of the number of females to males at a party was 1 : 2 but when 7 females and 7 males left , the ratio became 1 : 3 . how many people were at the party originally ?",
+        "answer": "The total number of individuals present at the party can be expressed as x females + 2x males. Simplifying the given equation, we have 3(x - 7) = 2x - 7x, which yields x = 14. Therefore, the initial number of people at the party, denoted by 3x, is given by 3(14) = 42. Hence, the solution to the problem is 42."
+    },
+    {
+        "guid": "948ec550-b4d6-45b7-a81e-3ae7fb3bc397",
+        "question": "the compound ratio of 5 : 6 , 3 : 2 and 4 : 5 is ?",
+        "answer": "The ratio of the first quantity to the second quantity is 1:1."
+    },
+    {
+        "guid": "f6e78bda-321e-492d-94eb-70ae05757160",
+        "question": "find the compound interest on $ 1200 for 6 years at 20 % p . a . if ci is component yearly ?",
+        "answer": "The formula used to calculate the compound interest (CI) is a = p (1 + r/100)^t, where 'a' represents the total amount including the principal amount, 'p', the rate of interest per annum, 'r', and the time period, 't'. \n\nUsing this formula, when the principal amount, 'p', is equal to $1200, the rate of interest per annum, 'r', is 20%, and the time period, 't', is 6 years, the total amount, 'a', is calculated to be $3583. \n\nTherefore, the compound interest, 'CI', can be determined by subtracting the principal amount, 'p', from the total amount, 'a', which gives $2383. Hence, the answer is $2383."
+    },
+    {
+        "guid": "f27b85e6-da8f-4b6e-8cd6-1db520b2e777",
+        "question": "you need to unlock a secret code using following clues , can you ? here you have the clues : clue - 1 : 0 7 9 ( one of the numbers is correct and is placed in its correct position ) clue - 2 : 0 3 2 ( nothing is correct ) clue - 3 : 1 0 8 ( two numbers are correct but not placed at its correct position . ) clue - 4 : 9 2 6 ( one number is correct but not placed at its correct position . ) clue - 5 : 6 7 8 ( one number is correct but not placed at its correct position . )",
+        "answer": "The correct code is 819. This can be deduced from the feedback provided for each guess. For the first guess, the number 9 is correctly placed. For the second guess, none of the numbers are present in the code. For the third guess, the numbers 1 and 8 are correct but placed in the wrong positions. For the fourth guess, the number 9 is present but in the wrong position. For the fifth guess, the number 8 is present but in the wrong position. Based on this feedback, it can be inferred that the correct code is 819."
+    },
+    {
+        "guid": "df4cc30e-ee3f-4db5-a349-076e1a741f8d",
+        "question": "set s contains exactly 10 numbers and has an average ( arithmetic mean ) of 6.2 . if one of the numbers in set s is increased by 7 , while all other numbers remain the same , what is the new average of set s ?",
+        "answer": "Given an old set s with a total sum of 62, where the average of its 10 elements is 6.2. If one element in the set is increased by 7, the new total sum becomes 69. Therefore, the new average of the set can be calculated as (69/10) = 6.9. Hence, the answer is 6.9."
+    },
+    {
+        "guid": "208eeae2-c8ac-4b3e-af7e-e3d27a148e3d",
+        "question": "a train is 320 meter long is running at a speed of 45 km / hour . in what time will it pass a bridge of 140 meter length ?",
+        "answer": "The speed of the object is 45 kilometers per hour, which is equivalent to 25/2 meters per second. The total distance traveled is 320 meters plus 140 meters, which equals 460 meters. Using the formula for time, which is distance divided by speed, we get a result of 36.8 seconds. Therefore, the answer to the problem is 36.8 seconds."
+    },
+    {
+        "guid": "87910782-4f30-4bd0-93be-dab362840a20",
+        "question": "by the how much is two - fifth of 300 greater than 3 - fifths of 125 ?",
+        "answer": "The required solution is obtained by subtracting 3/5 multiplied by 125 from 2/5 multiplied by 300. This simplifies to 120-75, resulting in the value of 45. Therefore, the answer is 45."
+    },
+    {
+        "guid": "3a981ef6-f0e2-4a3e-9171-443c8bba0135",
+        "question": "a collection of books went on sale , and 2 / 3 of them were sold for $ 3.50 each . if none of the 40 remaining books were sold , what was the total amount received for the books that were sold ?",
+        "answer": "Suppose the total number of books is represented by \"x\". From the given information, we know that 40 books constitute 1/3 of the total number of books, which can be expressed as:\n\n40 = (1/3)x\n\nSolving for \"x\", we get:\n\nx = 120\n\nNow, since 2/3 of the total number of books is equal to 80, we can express this as:\n\n(2/3)x = 80\n\nSolving for \"x\" again, we get:\n\nx = 120\n\nThis confirms that our initial assumption of \"x\" being the total number of books was correct.\n\nFinally, to find the amount received for the sold books, we multiply the number of sold books (80) by the price per book ($3.5), which gives:\n\nAmount received = 80 * 3.5 = $280\n\nTherefore, the answer is $280."
+    },
+    {
+        "guid": "bd647ad9-e6d6-4261-ba3c-3b2ad965557e",
+        "question": "excluding stoppages , the speed of a train is 60 kmph and including stoppages it is 40 kmph . of how many minutes does the train stop per hour ?",
+        "answer": "The value of \"t\" can be calculated using the formula t = d/s, where \"d\" represents the distance traveled and \"s\" represents the speed. In this case, we have been given that the distance traveled is 20 km and the time taken is 60 minutes. \n\nTo convert the time taken from minutes to seconds, we need to multiply it by 60. Therefore, the time taken in seconds can be calculated as follows: \n\n60 minutes * 60 seconds/minute = 3600 seconds \n\nNow, substituting the given values in the formula for \"t\", we get: \n\nt = d/s = 20 km / (3600 seconds/20 km) = 20/60 * 60 = 20 \n\nHence, the value of \"t\" is 20 seconds."
+    },
+    {
+        "guid": "78ed232a-8474-4c43-8cc6-2292ec3b9cf1",
+        "question": "an error 10 % in excess is made while measuring the side of a square . now what is the percentage of error in the calculated area of the square ?",
+        "answer": "The formula used to calculate the percentage error in the calculated area is:\n\nPercentage error = [(Measured value - True value) / True value] x 100%\n\nSubstituting the given values, we get:\n\nPercentage error = [(10 + 10 + (10 x 10)) / 100] x 100%\nPercentage error = (210 / 100) x 100%\n\nSimplifying the equation, we get:\n\nPercentage error = 210%\n\nTherefore, the percentage error in the calculated area is 21%."
+    },
+    {
+        "guid": "21928ba8-5baa-4695-bc14-8cd11d358091",
+        "question": "the perimeter of a rhombus is 68 cm and one of its diagonals is 16 cm . find its area ?",
+        "answer": "Given the values, it can be determined that a is equal to 17 using the equation 4a = 68. The result of the subtraction of 82 from 172 is 152. The expression 1/2 multiplied by 16 and 30 gives a result of 240. Therefore, the answer is 240."
+    },
+    {
+        "guid": "d0c105f3-403f-4261-bb47-d988bdde24ab",
+        "question": "if b is the center of the circle in the figure above and the area of the shaded region is 16 \u03c0 , what is the length of arc adc ?",
+        "answer": "The given information states that the area of one-fourth of a circle is 16\u03c0, which can be used to determine that the total area of the circle is 64\u03c0. It follows that the radius of the circle is 8 units, and the circumference can be calculated as 2\u03c0 multiplied by the radius, which is equal to 16\u03c0. The length of arc ADC, which is one-fourth of the circumference, can be determined as 4\u03c0. Hence, the answer is 4\u03c0."
+    },
+    {
+        "guid": "6778dbb7-7cbc-4aa8-a28c-23846fcd633d",
+        "question": "in my , xiang sold 15 used cars . for these 15 used cars the range of selling prices was 15000 and the lowest selling price was 4500 . in june , xiang sold 10 cars . for these 10 cars the range of selling was 16000 and the lowest selling price was 5000 . what was the range of selling prices for the 25 used car sold by xiang in may and june ?",
+        "answer": "The total cost for 10 cars is calculated as the sum of the fixed cost of $16,000 and the variable cost of $5,000, resulting in a total cost of $21,000. Similarly, the total cost for 15 cars is calculated as the sum of the fixed cost of $15,000 and the variable cost of $4,500, resulting in a total cost of $19,500. The minimum variable cost is $4,500, which is subtracted from the maximum total cost of $21,000, resulting in a minimum cost of $16,820. Therefore, the answer is $16,820."
+    },
+    {
+        "guid": "9aee951f-433e-407e-a68a-3506619f1f5c",
+        "question": "each digit 1 through 5 is used exactly once to create a 5 - digit integer . if the 3 and the 4 can not be adjacent digits in the integer , how many 5 - digit integers are possible ?",
+        "answer": "The total number of 5-digit numbers that can be formed is equal to the factorial of 5, which is 120. The number of 5-digit numbers in which the digits 3 and 4 are adjacent is 48, which can be determined by considering the positions where they can appear as a pair. To calculate the number of 5-digit numbers in which the digits 3 and 4 are not adjacent, we subtract the number of 5-digit numbers in which they are adjacent from the total number of 5-digit numbers, resulting in 72."
+    },
+    {
+        "guid": "9e8540c5-6a7a-440c-9d57-d3145621037f",
+        "question": "in a 200 m race , a beats b by 20 m and c by 38 m . in a race of 600 m b will beat c by",
+        "answer": "The given statement implies that when A covers a distance of 200 meters, B covers a distance of 180 meters (200-20) and C covers a distance of 162 meters (200-38). Further, when C covers 162 meters, B covers 180 meters. Therefore, when B covers a distance of 600 meters, C covers 540 meters (162/180 x 600). Consequently, B beats C by a margin of 60 meters (600-540). Hence, the answer is 60 meters."
+    }
+]

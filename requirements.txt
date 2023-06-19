@@ -1,0 +1,13 @@
+transformers==4.27.3
+torch==2.0.0
+torchmetrics==0.11.4
+tqdm==4.65.0
+pandas==1.5.3
+numpy==1.22.4
+matplotlib==3.5.0
+bert_score==0.3.13
+trl==0.4.4
+evaluate==0.4.0
+rouge-score==0.1.2
+bert_score==0.3.13
+gdown==4.7.1
