@@ -60,6 +60,7 @@ from generative_model import GenerativeModel
 path = "PathToTheModel" #e.g. /models/chatMGL 
 devide = "YourHardwareAccelerator" #e.g. cuda
 model = GenerativeModel(path, device)
+
 ```
 
 
