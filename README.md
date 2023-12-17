@@ -39,7 +39,7 @@ The script sets all seeds to be 42, in order to make the provided answers reprod
 
 Because of the way we have trained the model, it has learned to repeat the initial answer before giving the actual response, thus the generation token number should be set with this in mind.
 
-Current generations in the repo were generate with 300 max generation tokens.
+Current generations in the repo were generated with 300 max generation tokens.
 
 ## Using ChatMGL
 You can load and use ChatMGL in python to provide any prompt for any question. We list an indicative example here. 
